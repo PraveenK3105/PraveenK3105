@@ -1,7 +1,5 @@
 Hi, I’m Praveen K With a background in Business Analytics and Finance, I have a strong passion for using data to uncover meaningful insights. I am excited to apply my technical and analytical skills to a career in data science as an entry-level data specialist.
 
-Throughout my studies, I developed expertise in handling complex data, honing my ability to recognize patterns and trends. My experience also includes working with laboratory techniques, data management, and statistical analysis, which I believe will be highly beneficial in my role as a data specialist.
-
 I enjoy exploring new data analysis tools and techniques in my spare time, constantly seeking opportunities to expand my knowledge. Whether collaborating with a team or working independently, I thrive on uncovering new insights and using data to solve intricate problems.
 
 As a data analyst, I have experience leveraging various tools and technologies to gather, organize, and analyze data to drive business decisions. I am skilled in Python, R, SQL, Excel, Power BI, and Tableau, and I have a solid grasp of data analytics techniques such as dashboard creation, report generation, data mining, data merging, statistical analysis, and critical thinking.
