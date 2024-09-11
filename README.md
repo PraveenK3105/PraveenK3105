@@ -1,4 +1,4 @@
-Hi, I’m Praveen K With a background in Business Analytics and Finance, I have a strong passion for using data to uncover meaningful insights. I am excited to apply my technical and analytical skills to a career in data science as an entry-level data specialist.
+Hi, I’m Praveen K With a background in Business Analytics and Finance, I have a strong passion for using data to uncover meaningful insights. I am excited to apply my technical and analytical skills to a career in data analytics as an entry-level data specialist.
 
 I enjoy exploring new data analysis tools and techniques in my spare time, constantly seeking opportunities to expand my knowledge. Whether collaborating with a team or working independently, I thrive on uncovering new insights and using data to solve intricate problems.
 
