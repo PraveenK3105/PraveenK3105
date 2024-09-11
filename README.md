@@ -12,7 +12,9 @@ Beyond my technical expertise, I pride myself on my strong critical thinking and
 
 I am confident that my skills and experience make me well-suited for any data analyst position. I invite you to explore my portfolio and welcome the opportunity to further discuss my qualifications with you.
 
+My Resume [PDF](https://rb.gy/2olkrz)
 
+Go to [Tableau](https://public.tableau.com/app/profile/praveen3187/vizzes)
 <!---
 PraveenK3105/PraveenK3105 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
